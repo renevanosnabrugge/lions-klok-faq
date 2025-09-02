@@ -14,3 +14,22 @@ Gebruik de *+1* of *-1* knop bij het juiste team om de stand aan te passen. Doe 
 **5. Wat moet ik doen als de klok vastloopt of een verkeerde tijd toont?**
 Noteer de juiste tijd en vraag de scheidsrechter om een korte pauze. Stel de tijd handmatig opnieuw in met de *Set Time*-functie. Als het probleem blijft, meld dit bij de wedstrijdleiding en houd de tijd handmatig bij tot de klok weer werkt.
 
+
+
+6. Hoe stel ik de klok in voor een time-out?
+Wanneer een team een time-out neemt, stop je de wedstrijdklok met Stop/Pause. Je hoeft meestal geen aparte tijd in te stellen; de time-out duurt 30 seconden en wordt handmatig bijgehouden. Na afloop start je de klok weer bij het eerstvolgende puck-drop.
+
+7. Wat doe ik als twee straffen tegelijk worden gegeven?
+Voer beide straffen afzonderlijk in bij het juiste team. De klok houdt voor elke speler de strafduur apart bij. Let erop dat bij gelijke straffen (bijv. 2 tegen 2 minuten) de teams meestal met hetzelfde aantal spelers op het ijs blijven.
+
+8. Hoe ga ik om met een penalty shot (strafshot)?
+Stop de wedstrijdklok met Stop/Pause. Er wordt geen extra tijd ingesteld. Pas na afloop van het strafshot hervat je de klok bij de volgende puck-drop.
+
+9. Wat als de periode wordt verlengd met extra speeltijd door een storing of verkeerde kloktijd?
+Stel de wedstrijdklok handmatig terug op de juiste resterende speeltijd na overleg met de scheidsrechter. Vermeld altijd aan de scheidsrechter hoeveel tijd je gecorrigeerd hebt.
+
+10. Hoe stel ik de klok in voor de pauze tussen periodes?
+Gebruik de Intermission of Pauze-functie en stel de juiste duur in (meestal 15 minuten). De klok telt af naar het begin van de volgende periode en kan een zoemer geven om teams en officials te waarschuwen.
+
+11. Wie is de hoofdscheidsrechter van de lions
+Hans Verhoog is de hoofdscheidsrechter en is beschikbaar voor alle vragen en incidenten
